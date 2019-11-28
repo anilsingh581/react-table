@@ -1,7 +1,7 @@
 # react-table
 Features
 
-1. Lightweight at 11kb (and just 2kb more for styles)
+1. Lightweight
 
 2. Fully customizable (JSX, templates, state, styles, callbacks)
 
@@ -17,6 +17,19 @@ Features
 
 8. Fully controllable via optional props and callbacks
 
+# Installation
+Install React Table as a dependency
+ 
+NPM  -
+> npm install react-table
+
+Usage - 
+
+1 - Import the react table module
+> import ReactTable from 'react-table'
+
+2- Import styles by including react table css
+> import 'react-table/react-table.css'
 
 # Note -
 
